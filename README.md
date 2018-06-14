@@ -6,7 +6,7 @@ Changed Base Plate and Cross plate to:
 - Be compatible with QuadRacer QuickChange Arms which meet at the centre
 - Take Press Nuts at the outer most hole and also at the 20mm spacing
 - Leave 30.5mm spacing without press nuts
-- Extend additional 10mm at the front and back for longer batteries and less chance of gopro in view at lower angles
+- Extend additional 10mm at the front and back for longer batteries and less chance of props in view at lower angles
 
 Changed Top Plate to:
 - Have honeycomb central Pattern
