@@ -1,5 +1,5 @@
 # QuadRacer Honey Source (source_one)
-Open Source FPV Drone Frame project initiated by Team BlackSheep, modified by QuadRacer.
+Open Source FPV Drone Frame project initiated by Team BlackSheep, modified by QuadRacer. QuadRacer firmly believe that Open Source is a good thing and the design of the SOURCE ONE has some great features.  
 
 # QuadRacer Changes
 Changed Base Plate and Cross plate to:
