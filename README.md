@@ -1,5 +1,5 @@
-# source_one
-Open Source FPV Drone Frame project initiated by Team BlackSheep
+# QuadRacer Honey Source (source_one)
+Open Source FPV Drone Frame project initiated by Team BlackSheep, modified by QuadRacer.
 
 # QuadRacer Changes
 Changed Base Plate and Cross plate to:
@@ -17,7 +17,7 @@ Altered camera plates to:
 - Support 25mm height
 - Both options in the drawings
 
-QuadRacer arm designs have not been made available. In the interest of the spirit of the project, I have incorporated a modified SOURCE ONE arm that is compatible with this plate design and also incorporates a quick change slot.
+QuadRacer arm designs have not been made available. In the interest of the spirit of the project, I have incorporated a modified SOURCE ONE arm that is compatible with this plate design.
 
 # About SOURCE ONE
 ## The idea
@@ -27,12 +27,18 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 
 
 ## Frame specifications
-* Wheelbase: 220mm 5", 300mm 7"
+* Wide X: 175mm x 150mm
 * Top Plate: 2mm
 * Bottom Plate 3mm
-* Arm thickness: 4mm 5", 6mm 7"
+* Arm thickness: 4mm 5"
 * Stack Mounting: 30.5 × 30.5mm
-* Weight: 118g
+
+Weight: 
+* 63g Core Carbon Plates
+* 13g Modified SO Arm (Same for QuadRacer Arm)
+* 115g total weight
+* ~135g with hardware
+* ~150g with hardware and 3D things
 
 
 ## Project links
